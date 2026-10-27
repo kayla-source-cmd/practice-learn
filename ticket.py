@@ -47,4 +47,4 @@ def menu():
             print("Invalid choice. Pleaase select 1 or 2.")
 
 if __name__ == "__main__":
-    menu()                         
+    menu()                          .
